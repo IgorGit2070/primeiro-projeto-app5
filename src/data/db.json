@@ -1,0 +1,88 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Ana Silva",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "2",
+      "nome": "Bruno Santos",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "3",
+      "nome": "Carla Oliveira",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "4",
+      "nome": "Daniel Costa",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "5",
+      "nome": "Eduardo Lima",
+      "turma": "B",
+      "ano_escolar": 3
+    },
+    {
+      "id": "6",
+      "nome": "Fernanda Souza",
+      "turma": "A",
+      "ano_escolar": 2
+    },
+    {
+      "id": "7",
+      "nome": "Gabriel Almeida",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "8",
+      "nome": "Helena Rocha",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "9",
+      "nome": "Isabela Nunes",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "10",
+      "nome": "João Pereira",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "11",
+      "nome": "Roberto Almeida",
+      "turma": "D",
+      "ano_escolar": 2
+    },
+    {
+      "id": "a7fd",
+      "nome": "Alberto",
+      "turma": "E",
+      "ano_escolar": 7
+    },
+    {
+      "id": "111e",
+      "nome": "Roberto",
+      "turma": "F",
+      "ano_escolar": 8
+    },
+    {
+      "id": "7de7",
+      "nome": "Carlos",
+      "turma": "D",
+      "ano_escolar": 9
+    }
+  ]
+}
